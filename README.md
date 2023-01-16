@@ -11,7 +11,6 @@ Mincraft is an open world platforkm that you can do anything in there are three 
 </body>
 
 
-
 <img src="https://upload.wikimedia.org/wikipedia/en/5/51/Minecraft_cover.png" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb KAlRDb" alt="Minecraft - Wikipedia" data-noaft="1" style="width: 255px; height: 383px; margin: 0px;">
 
 <h2>
@@ -35,6 +34,26 @@ The rarest iten in Minecraft is the dragon egg.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/K8sPIioq-e4?start=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+<h3>
+Who cerated Mincraft
+</h3>
+
+Mincraft was made by a group of compaines which includes the following down below
+<p>
+Mojang Studios.
+</p>
+
+<p>
+Xbox Game Studios.
+</p>
+
+<p>
+4j Studios.
+</p>
+
+<p>
+And Other Ocean Interactive.
+</p>
 
 
 
